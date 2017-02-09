@@ -19,3 +19,6 @@
 
 [software carpentry] (http://www.softwarecarpentry.com)
 
+COLLABORATOR(S): JESSICA WHYTE, GLADYS C.
+
+
