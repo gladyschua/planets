@@ -11,6 +11,11 @@
 3. three
 
 ###This is a major change.
+#The Solar System
+- Mars
+- Venus
+- Earth
+- Other planets
 
 [software carpentry] (http://www.softwarecarpentry.com)
 
